@@ -6,9 +6,9 @@ Conspiracy theory and desperation.
 
 You are cyphernoided. Desparate, awake, at war, cyberaugmented, **cypher**secd, and para**noided**.
 
-You know harsh brutal truth that the power mad have been hiding from the sleeping herding masses.
+You *KNOW* the harsh and brutal truth, supressed by the power mad through corruption, lies, and propaganda. The sleepy herding masses lap it up.
 
-You know because they fucked your life up and you're going do to whatever it takes to fuck them up back and if you can, expose them and wake up the masses to their bullshit.
+You know because they fucked your life up and you're going do to whatever it takes to fuck them up back and if you can, expose them and wake the masses up to the smell of their bullshit.
 
 **STAY NOIDED**
 
@@ -59,11 +59,11 @@ Set the **Difficulty**.
 PC, roll:
     - 3d4  if cautious
     - 1d12 if reckless
-    - 2d6  othersise
+    - 2d6  otherwise
 
 Get a sum of **Difficulty** or higher to succeed
 
-CYBERWARE
+**CYBERWARE**
 
 PC, when you get your hands on **Cyberware**, tell the GM how you get it.
 Give it a name and describe what it looks like.
@@ -73,23 +73,25 @@ When you go to an unlicenced cyberjack to install it, tell the GM what it does.
 Write that on your character sheet.
 
 GM, give the cyberware a rank based on your subjective feeling of its power level.
+This is your way to control the power level and danger of cybernetics in your game.
+It's quite dangerous at 7 ranks and cascades out of control at around 13 ranks.
 
 PC, write that on your character sheet.
 
-Cyberware can't be removed. It can only be replaced with cyberware of a higher rank.
+Cyberware can't be removed. It can only be replaced with cyberware of a higher rank (which also replaces its quirks and malfunctions).
 
-After you install cyberware or do something reckless with your cyberware
-roll a pool of d6es equal to the total of your cyberware ranks:
+When you use your cyberware
+roll a pool of d6es equal to the total of your cyberware ranks and total the top 3:
 7+  You are jackamp sick until 2 failed rolls.
-10+ GM, add a troublesome quirk to description, write it down.
-14+ GM, add a serious malfunction to description, write it down.
-18  Your cyberware kills you on your third failed roll.
+10+ GM, add a troublesome quirk to its description, write it down.
+14+ GM, add a serious malfunction to its description, write it down.
+18  Your cyberware kills you on your third failed resolution roll.
 
-FALLOUT
+**FALLOUT**
 
 You will burn out.
-You will grind yourself to death against them.
-You have no other options thoug, they've taken all of those away.
+You'll grind yourself to death against them.
+You have no other options tho, they've taken all of those away.
 
 The **Fallout Pool** is a pool of dice that never empties and represents the accumulated
 danger accruing from your struggle against power.
@@ -105,12 +107,12 @@ Total the top 3 dice and answer:
 6-11  : What are you afraid will happen?
 12-17 : What from your past are you afraid will fuck things up?
 18-35 : What past failings or false victories are now giving them the upper hand?
-36    : How do you know your life or will to fight is in imediate danger?
-        You die or give up in 3 falied rolls.
+36    : How do you know your life or will to fight is in immediate danger?
+        You die or give up on your 3 failed resolution rolls.
 
 Play until you die or give up.
 
-INSPIRATION
+**INSPIRATION** 
 
 Arca
 Clipping.
@@ -122,4 +124,5 @@ Cyberpunk 2077 Edgerunners
 Altered Carbon
 
 Neuromancer
+Snow Crash
 
