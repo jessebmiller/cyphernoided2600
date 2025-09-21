@@ -6,9 +6,9 @@ Conspiracy theory and desperation.
 
 You are cyphernoided. Desparate, awake, at war, cyberaugmented, **cypher**secd, and para**noided**.
 
-You *KNOW* the harsh and brutal truth, supressed by the power mad through corruption, lies, and propaganda. The sleepy herding masses lap it up.
+You know the harsh and brutal truth, supressed by the power mad through corruption, lies, and propaganda.
 
-You know because they fucked your life up and you're going do to whatever it takes to fuck them up back and if you can, expose them and wake the masses up to the smell of their bullshit.
+You know because they fucked your life up and you're going do to whatever it takes to fuck them up back and if you can, expose them and wake the sleepy herding masses up to the smell of their bullshit.
 
 **STAY NOIDED**
 
