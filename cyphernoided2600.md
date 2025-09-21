@@ -17,11 +17,11 @@ This is a game for one player cyphernoided (PC) and one game master (GM).
 **SETUP**
 
 1. GM, introduce the world through headlines, advertisements, propaganda, net posts from:
-   - The media
+   - The Media
    - Megacorps
-   - Citystate governments
-   - Sentient artificial intelligences (sAIs)
-   - Resistence groups
+   - Citystate Governments
+   - Sentient Artificial Intelligences (sAIs)
+   - Resistence Groups
 
 You can wing it at the table, or prep it ahead of time. Follow your kink.
 Use the current fucked up situation as inspiration.
