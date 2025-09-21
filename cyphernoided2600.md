@@ -26,7 +26,7 @@ This is a game for one player cyphernoided (PC) and one game master (GM).
 You can wing it at the table, or prep it ahead of time. Follow your kink.
 Use the current fucked up situation as inspiration.
 
-2. PC, Introduce yourself through your conspiracy theory and living conditions.
+2. PC, Introduce yourself through your conspiracy theory and living conditions. Answer:
    - What powerful conspiracy fucked your life up?
    - What is their true purpose?
    - What are they hiding?
