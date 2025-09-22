@@ -108,7 +108,7 @@ Total the top 3 dice and answer:
 - 12-17 : What from your past are you afraid will fuck things up?
 - 18-35 : What past failings or false victories are now giving them the upper hand?
 - 36    : How do you know your life or will to fight is in immediate danger?
-        You die or give up on your 3 failed resolution rolls.
+        You die or give up after 3 failed resolution rolls.
 
 Play until you die or give up.
 
