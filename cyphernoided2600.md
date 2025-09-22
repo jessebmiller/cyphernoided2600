@@ -82,10 +82,10 @@ Cyberware can't be removed. It can only be replaced with cyberware of a higher r
 
 When you use your cyberware
 roll a pool of d6es equal to the total of your cyberware ranks and total the top 3:
-7+  You are jackamp sick until 2 failed rolls.
-10+ GM, add a troublesome quirk to its description, write it down.
-14+ GM, add a serious malfunction to its description, write it down.
-18  Your cyberware kills you on your third failed resolution roll.
+- 7+  You are jackamp sick until 2 failed rolls.
+- 10+ GM, add a troublesome quirk to its description, write it down.
+- 14+ GM, add a serious malfunction to its description, write it down.
+- 18  Your cyberware kills you on your third failed resolution roll.
 
 **FALLOUT**
 
@@ -104,10 +104,10 @@ then roll the whole pool.
 (If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller. If bitrot hasn't eaten it you can use the official roller at [[WEBSITE]])
 
 Total the top 3 dice and answer:
-6-11  : What are you afraid will happen?
-12-17 : What from your past are you afraid will fuck things up?
-18-35 : What past failings or false victories are now giving them the upper hand?
-36    : How do you know your life or will to fight is in immediate danger?
+- 6-11  : What are you afraid will happen?
+- 12-17 : What from your past are you afraid will fuck things up?
+- 18-35 : What past failings or false victories are now giving them the upper hand?
+- 36    : How do you know your life or will to fight is in immediate danger?
         You die or give up on your 3 failed resolution rolls.
 
 Play until you die or give up.
