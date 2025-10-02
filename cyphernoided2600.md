@@ -57,9 +57,9 @@ Set the **Difficulty**.
 - If it's *rediculous* set it to 11 or 12
 
 PC, roll:
-    - 3d4  if cautious
-    - 1d12 if reckless
-    - 2d6  otherwise
+- 3d4  if cautious
+- 1d12 if reckless
+- 2d6  otherwise
 
 Get a sum of **Difficulty** or higher to succeed
 
@@ -78,7 +78,9 @@ It's quite dangerous at 7 ranks and cascades out of control at around 13 ranks.
 
 PC, write that on your character sheet.
 
-Cyberware can't be removed. It can only be replaced with cyberware of a higher rank (which also replaces its quirks and malfunctions).
+Cyberware can't be removed. It can only be replaced with cyberware of a higher rank which also replaces its quirks and malfunctions.
+
+QUIRKS AND MALFUNCTIONS
 
 When you use your cyberware
 roll a pool of d6es equal to the total of your cyberware ranks and total the top 3:
