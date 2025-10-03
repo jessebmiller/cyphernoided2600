@@ -93,7 +93,7 @@ roll a pool of d6es equal to the total of your cyberware ranks and total the top
 
 You will burn out.
 You'll grind yourself to death against them.
-You have no other options tho, they've taken all of those away.
+You have no other options, they've taken all of those away.
 
 The **Fallout Pool** is a pool of dice that never empties and represents the accumulated
 danger accruing from your struggle against power.
