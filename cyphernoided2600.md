@@ -84,7 +84,7 @@ QUIRKS AND MALFUNCTIONS
 
 When you use your cyberware
 roll a pool of d6es equal to the total of your cyberware ranks and total the top 3:
-- 7+  You are jackamp sick until 2 failed rolls.
+- 7+  You are jackamp sick until 2 failed resolution rolls.
 - 10+ GM, add a troublesome quirk to its description, write it down.
 - 14+ GM, add a serious malfunction to its description, write it down.
 - 18  Your cyberware kills you on your third failed resolution roll.
