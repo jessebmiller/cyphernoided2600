@@ -78,7 +78,7 @@ It's quite dangerous at 7 ranks and cascades out of control at around 13 ranks.
 
 PC, write that on your character sheet.
 
-Cyberware can't be removed. It can only be replaced with cyberware of a higher rank which also replaces its quirks and malfunctions.
+Cyberware can't be removed. It can only be replaced by cyberware of a higher rank which also replaces its quirks and malfunctions.
 
 QUIRKS AND MALFUNCTIONS
 
