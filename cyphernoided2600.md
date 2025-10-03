@@ -100,10 +100,10 @@ danger accruing from your struggle against power.
 
 The only question is, how much of them can you take down with you.
 
-PC, if you fail in enemy territory, add all dice rolled to the accumulating **Fallout Pool**
+PC, if you fail a resolution roll in enemy territory, add all dice rolled to the accumulating **Fallout Pool**
 then roll the whole pool.
 
-(If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller. If bitrot hasn't eaten it you can use the official roller at [[WEBSITE]])
+If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller. If bitrot hasn't eaten it you can use the official roller at [[WEBSITE]]
 
 Total the top 3 dice and answer:
 - 6-11  : What are you afraid will happen?
