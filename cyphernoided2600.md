@@ -26,7 +26,7 @@ GM, introduce the world through headlines, advertisements, propaganda, net posts
 You can wing it at the table, or prep it ahead of time. Follow your kink.
 Use the current fucked up situation as inspiration.
 
-PC, Introduce yourself through your conspiracy theory and living conditions. Answer:
+PC, introduce yourself through your conspiracy theory and living conditions. Answer:
    - What powerful conspiracy fucked your life up?
    - What is their true purpose?
    - What are they hiding?
