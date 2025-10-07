@@ -8,7 +8,7 @@ You are cyphernoided. Desparate, awake, at war, cyberaugmented, **cypher**secd, 
 
 You know the harsh and brutal truth, supressed by the power mad through corruption, lies, and propaganda.
 
-You know because they fucked your life up. You're going do to whatever it takes to fuck them up back and if you can, expose them and wake the sleepy herding masses up to the smell of their bullshit.
+You know because they fucked your life up. You're going to do whatever it takes to fuck them up back and if you can, expose them and wake the sleepy herding masses up to the smell of their bullshit.
 
 **STAY NOIDED**
 
@@ -16,7 +16,7 @@ This is a game for one player cyphernoided (PC) and one game master (GM).
 
 **SETUP**
 
-1. GM, introduce the world through headlines, advertisements, propaganda, net posts from:
+GM, introduce the world through headlines, advertisements, propaganda, net posts from:
    - The Media
    - Megacorps
    - Citystate Governments
@@ -26,7 +26,7 @@ This is a game for one player cyphernoided (PC) and one game master (GM).
 You can wing it at the table, or prep it ahead of time. Follow your kink.
 Use the current fucked up situation as inspiration.
 
-2. PC, Introduce yourself through your conspiracy theory and living conditions. Answer:
+PC, introduce yourself through your conspiracy theory and living conditions. Answer:
    - What powerful conspiracy fucked your life up?
    - What is their true purpose?
    - What are they hiding?
@@ -57,9 +57,9 @@ Set the **Difficulty**.
 - If it's *rediculous* set it to 11 or 12
 
 PC, roll:
-    - 3d4  if cautious
-    - 1d12 if reckless
-    - 2d6  otherwise
+- 3d4  if cautious
+- 1d12 if reckless
+- 2d6  otherwise
 
 Get a sum of **Difficulty** or higher to succeed
 
@@ -78,11 +78,13 @@ It's quite dangerous at 7 ranks and cascades out of control at around 13 ranks.
 
 PC, write that on your character sheet.
 
-Cyberware can't be removed. It can only be replaced with cyberware of a higher rank (which also replaces its quirks and malfunctions).
+Cyberware can't be removed. It can only be replaced by cyberware of a higher rank which also replaces its quirks and malfunctions.
+
+QUIRKS AND MALFUNCTIONS
 
 When you use your cyberware
 roll a pool of d6es equal to the total of your cyberware ranks and total the top 3:
-- 7+  You are jackamp sick until 2 failed rolls.
+- 7+  You are jackamp sick until 2 failed resolution rolls.
 - 10+ GM, add a troublesome quirk to its description, write it down.
 - 14+ GM, add a serious malfunction to its description, write it down.
 - 18  Your cyberware kills you on your third failed resolution roll.
@@ -91,17 +93,17 @@ roll a pool of d6es equal to the total of your cyberware ranks and total the top
 
 You will burn out.
 You'll grind yourself to death against them.
-You have no other options tho, they've taken all of those away.
+You have no other options, they've taken all of those away.
 
 The **Fallout Pool** is a pool of dice that never empties and represents the accumulated
 danger accruing from your struggle against power.
 
 The only question is, how much of them can you take down with you.
 
-PC, if you fail in enemy territory, add all dice rolled to the accumulating **Fallout Pool**
+PC, if you fail a resolution roll in enemy territory, add all dice rolled to the accumulating **Fallout Pool**
 then roll the whole pool.
 
-(If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller. If bitrot hasn't eaten it you can use the official roller at [[WEBSITE]])
+If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller. If bitrot hasn't eaten it you can use the official roller at [[WEBSITE]]
 
 Total the top 3 dice and answer:
 - 6-11  : What are you afraid will happen?
@@ -125,4 +127,8 @@ Altered Carbon
 
 Neuromancer
 Snow Crash
+
+Apocalypse World 
+Brindlewood Bay
+Dogs in the Vineyard 
 
