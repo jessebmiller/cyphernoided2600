@@ -48,14 +48,14 @@
 
 \begin{raggedright}
 
-\edge\img[src=images/cimage2.jpg, height=60%ph]
+\edge\img[src=images/cimage2.png, height=60%ph]
 
 \title{Cyphernoided2600}
 
 A cyberpunk game of paranoia and cybernetics.\break
 Conspiracy theory and desperation.
 
-\edge\img[width="100%pw", src="images/citystrip.jpg"]
+\edge\img[width="100%pw", src="images/citystrip.png"]
 
 You are cyphernoided. Desparate, awake, at war, cyberaugmented, \font[weight=900]{cypher}secd, and para\font[weight="900"]{noided}.
 
@@ -136,7 +136,7 @@ PC, write that on your character sheet.
 
 Cyberware can't be removed. It can only be replaced with cyberware of a higher rank (which also replaces its quirks and malfunctions).
 \skip[height="3px"]
-\edge\img[src="images/cyberware.png", width="115%pw"]
+\edge\img[src="images/cyberware-resized.png", width="115%pw"]
 
 \hbox{}
 \skip[height="18pt"]
@@ -156,7 +156,7 @@ Total the top 3:
 \lismall{18}  Your cyberware kills you on your third failed
 \indentsmall resolution roll.
 
-\edge\img[src="images/image3.jpg", width="130%pw"]
+\edge\img[src="images/image3.png", width="130%pw"]
 
 \heading{FALLOUT}
 
@@ -169,7 +169,7 @@ danger accruing from your struggle against power.
 
 The only question is, how much of them can you take down with you.
 \skip[height="3pt"]
-\edge\img[src="images/dimage0.jpg", width="100%pw"]
+\edge\img[src="images/dimage0.png", width="100%pw"]
 
 \hbox{}
 \skip[height="26pt"]
