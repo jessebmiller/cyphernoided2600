@@ -38,6 +38,10 @@
   \break\rebox[width="60pt"]{- \process}
 }
 
+\define[command="indentsmall"]{
+  \break\rebox[width="60pt"]
+}
+
 \define[command="lilarge"]{
   \break\rebox[width="115pt"]{- \process}
 }
@@ -135,14 +139,22 @@ Cyberware can't be removed. It can only be replaced with cyberware of a higher r
 \edge\img[src="images/cyberware.png", width="115%pw"]
 
 \hbox{}
-\skip[height="34pt"]
+\skip[height="18pt"]
 When you use your cyberware
 roll a pool of d6es equal to the total of your cyberware ranks.\break
+\hbox{}\skip
 Total the top 3:
+\skip
 \lismall{7+}  You are jackamp sick until 2 failed rolls.
-\lismall{10+} GM, add a troublesome quirk to its description, write it down.
-\lismall{14+} GM, add a serious malfunction to its description, write it down.
-\lismall{18}  Your cyberware kills you on your third failed resolution roll.
+\skip
+\lismall{10+} GM, add a troublesome quirk to its
+\indentsmall description, write it down.
+\skip
+\lismall{14+} GM, add a serious malfunction to its
+\indentsmall description, write it down.
+\skip
+\lismall{18}  Your cyberware kills you on your third failed
+\indentsmall resolution roll.
 
 \edge\img[src="images/image3.jpg", width="130%pw"]
 
@@ -156,24 +168,32 @@ The \font[weight=900]{Fallout Pool} is a pool of dice that never empties and rep
 danger accruing from your struggle against power.
 
 The only question is, how much of them can you take down with you.
+\skip[height="3pt"]
+\edge\img[src="images/dimage0.jpg", width="100%pw"]
+
+\hbox{}
+\skip[height="26pt"]
 
 PC, if you fail in enemy territory, add all dice rolled to the accumulating \font[weight=900]{Fallout Pool}
 then roll the whole pool.
 
 If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller.
-\skip[height="3pt"]
-\edge\img[src="images/fallout.jpg", width="100%pw"]
-
-\hbox{}
-\skip[height="56pt"]
 
 Total the top 3 dice and answer:
+\skip
 \lismall{6-11} What are you afraid will happen?
-\lismall{12-17} What from your past are you afraid will fuck things up?
-\lismall{18-35} What past failings or false victories are now giving them the upper hand?
-\lismall{36} How do you know your life or will to fight is in immediate danger? You die or give up after 3 failed resolution rolls.
+\skip
+\lismall{12-17} What from your past are you afraid will fuck
+\indentsmall things up?
+\skip
+\lismall{18-35} What past failings or false victories are now
+\indentsmall giving them the upper hand?
+\skip
+\lismall{36} How do you know your life or will to fight is
+\indentsmall in immediate danger? You die or give
+\indentsmall up after 3 failed resolution rolls.
 
-\skip[height="100pt"]
+\skip[height="50pt"]
 
 Play until you die or give up.
 
@@ -206,6 +226,5 @@ Storygames Chicago\break
 \edge\edge\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
 \edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
 \edge\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
-
 \end{raggedright}
 \end{document}
