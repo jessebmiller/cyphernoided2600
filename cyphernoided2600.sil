@@ -59,7 +59,7 @@ Conspiracy theory and desperation.
 
 You are cyphernoided. Desparate, awake, at war, cyberaugmented, \font[weight=900]{cypher}secd, and para\font[weight="900"]{noided}.
 
-You know the harsh and brutal truth, supressed by the power mad through corruption, lies, and propaganda.
+You know the harsh and brutal truth, suppressed by the power mad through corruption, lies, and propaganda.
 
 You know because they fucked your life up. You're going do to whatever it takes to fuck them up back and if you can, expose them and wake the sleepy herding masses up to the smell of their bullshit.
 
@@ -76,7 +76,7 @@ GM, introduce the world through headlines, advertisements, propaganda, net posts
 \li{Megacorps}
 \li{Citystate Governments}
 \li{Sentient Artificial Intelligences (sAIs)}
-\li{Resistence Groups}
+\li{Resistance Groups}
 
 You can wing it at the table, or prep it ahead of time. Follow your kink.
 Use the current fucked up situation as inspiration.
@@ -93,7 +93,7 @@ Write:
 \li{Your look}
 \li{Your conspiracy theory}
 
-leave space for any cyberware you get your hands on
+leave space for any cyberware you get your hands on.
 
 \heading{RESOLUTION}
 
@@ -117,7 +117,7 @@ PC, roll:\break
 \lismall{1d12}	if reckless\break
 \lismall{2d6}	otherwise\break
 
-Get a sum of \font[weight=900]{Difficulty} or higher to succeed
+Get a sum of \font[weight=900]{Difficulty} or higher to succeed.
 
 \heading{CYBERWARE}
 
@@ -140,7 +140,7 @@ Cyberware can't be removed. It can only be replaced with cyberware of a higher r
 
 \hbox{}
 \skip[height="18pt"]
-When you use your cyberware
+When you use your cyberware,
 roll a pool of d6es equal to the total of your cyberware ranks.\break
 \hbox{}\skip
 Total the top 3:
@@ -174,7 +174,7 @@ The only question is, how much of them can you take down with you.
 \hbox{}
 \skip[height="26pt"]
 
-PC, if you fail in enemy territory, add all dice rolled to the accumulating \font[weight=900]{Fallout Pool}
+PC, if you fail in enemy territory, add all dice rolled to the accumulating \font[weight=900]{Fallout Pool},
 then roll the whole pool.
 
 If you have a load of dice you might be fine, otherwise roll in batches or use a digital dice roller.
@@ -215,6 +215,9 @@ Snow Crash
 Written and designed by:\break
 Jesse B. Miller
 
+With editing and other help from:\break
+Ryan Zenith, Collin J. Ryan, and Chase Kurkowski
+
 Photogrpahy by:\break
 Chase Kurkowski
 
@@ -222,9 +225,6 @@ Storygames Chicago\break
 2025
 
 \font[family="Rubik Broken Fax"]
-\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
 \edge\edge\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
-\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
-\edge\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
 \end{raggedright}
 \end{document}
