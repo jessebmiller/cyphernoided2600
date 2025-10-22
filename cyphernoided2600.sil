@@ -27,7 +27,7 @@
 }
 
 \define[command="edge"]{
-  \kern[width=-5%pw"]
+  \kern[width="-5%pw"]
 }
 
 \define[command="li"]{
@@ -48,9 +48,11 @@
 
 \begin{raggedright}
 
-\edge\img[src=images/cimage2.png, height=60%ph]
+\use[module=packages.background]
+\background[color=white, src=images/cover.png, allpages=false]
 
-\title{Cyphernoided2600}
+\pagebreak
+
 
 A cyberpunk game of paranoia and cybernetics.\break
 Conspiracy theory and desperation.
@@ -118,6 +120,8 @@ PC, roll:\break
 \lismall{2d6}	otherwise\break
 
 Get a sum of \font[weight=900]{Difficulty} or higher to succeed.
+
+\pagebreak
 
 \heading{CYBERWARE}
 
@@ -210,7 +214,11 @@ Cyberpunk 2077 Edgerunners\break
 Altered Carbon
 
 Neuromancer\break
-Snow Crash
+Snow Crash\break
+
+Apocalypse World\break
+Brindlewood Bay\break
+Dogs in the Vineyard
 
 Written and designed by:\break
 Jesse B. Miller
@@ -224,7 +232,5 @@ Chase Kurkowski
 Storygames Chicago\break
 2025
 
-\font[family="Rubik Broken Fax"]
-\edge\edge\edge\edge\hbox{stay noided stay noided stay noided stay noided stay noided stay noided}
 \end{raggedright}
 \end{document}
