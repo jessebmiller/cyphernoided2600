@@ -1,0 +1,24 @@
+.ware {
+  margin-bottom: 2em;
+}
+
+.quirk {
+  display: block;
+}
+
+.quirks {
+  padding-left: 2vw;
+}
+
+.quirk {
+  width: 90vw;
+}
+
+.description {
+  width: 75vw;
+  height: 4em;
+}
+
+.rank {
+  width: 10vw;
+}
